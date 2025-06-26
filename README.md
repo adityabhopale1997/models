@@ -5,6 +5,9 @@
 [![Python](https://img.shields.io/pypi/pyversions/tensorflow.svg?style=plastic)](https://badge.fury.io/py/tensorflow)
 [![tf-models-official PyPI](https://badge.fury.io/py/tf-models-official.svg)](https://badge.fury.io/py/tf-models-official)
 
+## 🧮 Handheld Calculator Module Integration
+
+This project supports the addition of a basic calculator module for demonstration purposes using lightweight scripting logic.
 
 # Welcome to the Model Garden for TensorFlow
 
