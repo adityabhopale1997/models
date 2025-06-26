@@ -128,3 +128,6 @@ If you use TensorFlow Model Garden in your research, please cite this repository
   year = {2020}
 }
 ```
+## 🚀 Radar Signal Demos
+
+We are exploring the integration of radar signal demos for future sensor optimization modules.
